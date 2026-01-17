@@ -1,0 +1,14 @@
+name: kisan_setu
+description: Farmer to customer app
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.66.2
+
+flutter:
+  uses-material-design: true
